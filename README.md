@@ -6,6 +6,14 @@ guide:
 
 http://prntscr.com/iryopd
 ```
+```
+You need a jquery plugin:
+<script src="../jquery-3.2.1.js"></script>
+```
+```
+Link to the link containing the plugin:
+<script src="../plugin.js"></script>
+```
 
 ```
 you can use the following:
