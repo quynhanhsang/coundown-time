@@ -26,3 +26,6 @@ you can use the following:
     });
 </script>   
 ```
+```
+Node: offset is thetimezone.
+```
